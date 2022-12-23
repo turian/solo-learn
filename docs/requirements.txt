@@ -9,7 +9,7 @@ seaborn
 pandas
 umap-learn
 
-setuptools==59.5.0
+setuptools==65.5.1
 protobuf==3.19
 
 # https://github.com/readthedocs/readthedocs.org/issues/9038
