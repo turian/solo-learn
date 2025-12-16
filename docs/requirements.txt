@@ -17,3 +17,6 @@ Jinja2<3.1
 
 # https://stackoverflow.com/a/72747002/82733
 markupsafe==2.0.1
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+scikit-learn>=1.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
