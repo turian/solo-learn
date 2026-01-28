@@ -1,4 +1,4 @@
-torch>=1.10.0
+torch>=2.10.0
 torchvision>=0.11.1
 einops
 pytorch-lightning==1.6.4
@@ -9,3 +9,4 @@ wandb
 scipy
 timm
 scikit-learn
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
